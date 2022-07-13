@@ -16,4 +16,6 @@
 
 To learn more about what I do, make sure to check me out on these platforms:
 
-[Twitter](https://twitter.com/pitchmeister "Title").
+[Twitter](https://twitter.com/pitchmeister)
+[Medium](https://medium.com/@derrickrvasquez/)
+Personal Website
