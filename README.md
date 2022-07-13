@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## This GitHub account is dedicated to my everlasting pursuit of learning.
+# This GitHub account is dedicated to my everlasting pursuit of learning.
 
-# The majority of my repos consist of the following topics:
+## The majority of my repos consist of the following topics:
 
 - Sports analytics
 
