@@ -4,13 +4,13 @@
 
 ## The majority of my repos consist of the following topics:
 
-- Sports analytics
+- Sports analytics :baseball: :football: :basketball:
 
-- Machine learning
+- Machine learning :computer: 
 
-- Web3 technology
+- Web3 technology :space_invader:
 
-- Automation
+- Automation :runner:
 
 ## Connect
 
