@@ -11,3 +11,9 @@
 - Web3 technology
 
 - Automation
+
+## Connect
+
+To learn more about what I do, make sure to check me out on these platforms:
+
+[Twitter](https://twitter.com/pitchmeister "Title").
