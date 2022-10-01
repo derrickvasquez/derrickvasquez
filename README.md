@@ -20,4 +20,4 @@ To learn more about what I do, make sure to check me out on these platforms:
 
 [Medium](https://medium.com/@derrickrvasquez/)
 
-Personal Website
+[Personal Website](https://derrickvsqz.com)
