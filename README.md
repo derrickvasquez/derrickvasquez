@@ -8,8 +8,6 @@
 
 - Machine learning :computer: 
 
-- Web3 technology :space_invader:
-
 - Automation :runner:
 
 ## Connect
