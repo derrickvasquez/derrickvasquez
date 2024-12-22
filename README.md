@@ -4,9 +4,9 @@
 
 ## The majority of my repos consist of the following topics:
 
-- Sports analytics :baseball: :football: :basketball:
+- AI/Machine learning :computer: 
 
-- Machine learning :computer: 
+- Sports Analytics :baseball: :football: :basketball:
 
 - Automation :runner:
 
@@ -14,7 +14,7 @@
 
 To learn more about what I do, make sure to check me out on these platforms:
 
-[Twitter](https://twitter.com/pitchmeister)
+[Twitter](https://twitter.com/vasqills)
 
 [Medium](https://medium.com/@derrickrvasquez/)
 
