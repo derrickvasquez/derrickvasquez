@@ -10,6 +10,10 @@
 
 - Automation :runner:
 
+## Currently building 🏗️
+[Xodus Automation](https://xodusautomation.com)
+
+
 ## Connect
 
 To learn more about what I do, make sure to check me out on these platforms:
