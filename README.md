@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 # This GitHub account is dedicated to my everlasting pursuit of learning.
 
