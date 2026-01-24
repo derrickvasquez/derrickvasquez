@@ -4,7 +4,7 @@
 
 ## The majority of my repos consist of the following topics:
 
-- AI/Machine learning :computer: 
+- AI/Machine Learning :computer: 
 
 - Sports Analytics :baseball: :football: :basketball:
 
