@@ -18,8 +18,8 @@
 
 To learn more about what I do, make sure to check me out on these platforms:
 
-[Twitter](https://twitter.com/vasqills)
+[X](https://twitter.com/vasqills){:target="_blank"}
 
-[Medium](https://medium.com/@derrickrvasquez/)
+[Medium](https://medium.com/@derrickrvasquez/){:target="_blank"}
 
-[Personal Website](https://www.derrickvasquez.com/)
+[Personal Website](https://www.derrickvasquez.com/){:target="_blank"}
