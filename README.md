@@ -1,7 +1,7 @@
 - Data Analyst at WeInfuse
 - Former Business Analyst / Software Engineering Analyst at Accenture
 - Currently working on [XODUS](x.com/XODUSINDUSTRIES)
-- 
+  
 To learn more about what I do, make sure to check me out on these platforms:
 
 - [Twitter](https://x.com/vasqills)
