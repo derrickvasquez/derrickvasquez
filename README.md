@@ -1,6 +1,6 @@
-Data Analyst at WeInfuse [Work](https://github.com/WI-dvasquez)
-Former Business Analyst / Software Engineering Analyst at Accenture
-Currently curating [XODUS](x.com/XODUSINDUSTRIES)
+- Data Analyst at WeInfuse [Work](https://github.com/WI-dvasquez)
+- Former Business Analyst / Software Engineering Analyst at Accenture
+- Currently curating [XODUS](x.com/XODUSINDUSTRIES)
 
 
 
