@@ -1,4 +1,4 @@
-- Data Analyst at WeInfuse
+- Data Analyst at [WeInfuse](https://github.com/wi-dvasquez)
 - Former Business Analyst / Software Engineering Analyst at Accenture
 - Currently working on [XODUS](x.com/XODUSINDUSTRIES)
   
