@@ -1,20 +1,9 @@
-### Hello 👋
-
-# This GitHub account is dedicated to my everlasting pursuit of learning.
-
-## The majority of my repos consist of the following topics:
-
-- AI/Machine Learning :computer: 
-
-- Sports Analytics :baseball: :football: :basketball:
-
-- Automation :runner:
-
-## Currently building 🏗️
-Stay tuned...
+Data Analyst at WeInfuse [Work](https://github.com/WI-dvasquez)
+Former Business Analyst / Software Engineering Analyst at Accenture
+Currently curating [XODUS](x.com/XODUSINDUSTRIES)
 
 
-## Connect
+
 
 To learn more about what I do, make sure to check me out on these platforms:
 
