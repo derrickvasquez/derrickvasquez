@@ -1,6 +1,6 @@
 - Data Analyst
 - Former Business Analyst / Software Engineering Analyst at Accenture
-- Currently working on [XODUS](x.com/XODUSINDUSTRIES) & [XODUS](x.com/cardified)
+- Currently working on [XODUS](x.com/XODUSINDUSTRIES) & [Cardified](x.com/cardified)
   
 To learn more about what I do, make sure to check me out on these platforms:
 
