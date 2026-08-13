@@ -1,7 +1,7 @@
 - Data Analyst
 - Baseball fanatic
 - Sports cards enthusiast
-- Currently working on [Cardified](x.com/getcardified) & [XODUS](https://x.com/XODUSINDUSTRIES) 
+- Currently working on [Cardified](https://x.com/getCardified) & [XODUS](https://x.com/XODUSINDUSTRIES) 
   
 To learn more about what I do, make sure to check me out on these platforms:
 
