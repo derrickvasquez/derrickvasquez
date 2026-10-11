@@ -5,7 +5,7 @@
   
 To learn more about what I do, make sure to check me out on these platforms:
 
-- [Twitter](https://x.com/vasqills)
+- [Twitter](https://x.com/juicebottt)
 - [Medium](https://medium,com)
 - [Personal Site](https://derrickvasquez.com)
 <!--
